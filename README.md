@@ -1,48 +1,49 @@
 # Hi there, I'm Rohan Nirup Nair! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=26&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Python+Developer;Data+Science+Enthusiast;AI+%26+RAG+Engineer;Web+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=26&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=AI+Engineer;GenAI+%26+RAG+Expert;Data+Scientist;Python+Developer" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <a href="https://rohannair4.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://rohannair4.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Demo-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rohan-nirup-nair/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rohannair98@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
 ### 💫 About Me
 
-I am a passionate Software Engineer and Data Scientist specializing in **AI Systems**, **Retrieval-Augmented Generation (RAG)**, and **Data Analysis**. I love building intelligent systems, optimizing hybrid workflows, and designing premium web experiences.
+I am an **AI Engineer** and **Data Scientist** specializing in **Retrieval-Augmented Generation (RAG)**, **Generative AI**, **Computer Vision**, and **Large Vision-Language Models**. I build scalable neural network architectures and optimize custom model training and deployment.
 
-- 🔭 I’m currently developing advanced **RAG applications** and hybrid OCR pipelines.
-- ⚡ Fun fact: I enjoy creating highly interactive and animated web interfaces that merge beautiful design with clean code.
-- 💬 Ask me about: **Python**, **Jupyter Notebooks**, **Vector Databases**, and **Machine Learning**.
+- 🔭 I’m currently designing next-gen **RAG systems** and fine-tuning vision-language models (VLMs).
+- ⚡ Focus areas: **Generative AI (GenAI)**, **LLM Fine-tuning**, **OpenCV**, and **Object Tracking**.
+- 💬 Ask me about: **Vector Databases**, **Deep Learning**, and **Computer Vision Pipelines**.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- Core AI & GenAI -->
+  <img src="https://img.shields.io/badge/Generative_AI-FF007F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs_%26_VLMs-9D4EDD?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <br/>
-  <!-- Data Science & AI -->
+  <!-- Languages & Frameworks -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <br/>
+  <!-- Data Science & Databases -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DB-00F2FE?style=for-the-badge&logo=databricks&logoColor=black" />
   <br/>
-  <!-- Tools & Platform -->
+  <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
 ---
@@ -53,36 +54,36 @@ I am a passionate Software Engineer and Data Scientist specializing in **AI Syst
   <tr>
     <td width="50%">
       <h3 align="center">🤖 <a href="https://github.com/RohanNair98/RAG">RAG</a></h3>
-      <p align="center">Retrieval-Augmented Generation implementation leveraging advanced vector search and LLMs to create highly context-aware systems.</p>
+      <p align="center">Advanced Retrieval-Augmented Generation implementation leveraging vector databases, semantic search, and LLMs for precise contextual answering.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Focus-AI_%26_Search-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-LLMs_%26_Search-blueviolet?style=flat-square" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🍃 <a href="https://github.com/RohanNair98/Amara">Amara</a></h3>
-      <p align="center">A high-performance Python application showcasing structured logic, modular utilities, and efficient algorithms.</p>
+      <h3 align="center">👤 <a href="https://github.com/RohanNair98/Mediapipe-Pose-Tutorial">Mediapipe-Pose-Tutorial</a></h3>
+      <p align="center">Interactive body gesture and pose estimation tutorial utilizing Google Mediapipe and OpenCV to track joints and spatial orientation in real-time.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Type-Core_App-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Framework-OpenCV-5C3EE8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Format-Jupyter-F37626?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📊 <a href="https://github.com/RohanNair98/project-data-science">Project Data Science</a></h3>
-      <p align="center">Repository containing end-to-end data analysis workflows, feature engineering, and statistical modeling scripts.</p>
+      <h3 align="center">🎭 <a href="https://github.com/RohanNair98/Emotion-Detection">Emotion-Detection</a></h3>
+      <p align="center">Deep learning models trained to classify and detect human facial expressions in real-time video frames using convolutional neural networks.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Domain-Data_Science-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Focus-Analysis-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/Focus-Computer_Vision-brightgreen?style=flat-square" />
+        <img src="https://img.shields.io/badge/Library-PyTorch-EE4C2C?style=flat-square" />
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">📔 <a href="https://github.com/RohanNair98/Portfolio-Projects">Portfolio Projects</a></h3>
-      <p align="center">A curated collection of Jupyter notebooks illustrating machine learning, prediction models, and deep EDA.</p>
+      <h3 align="center">🍃 <a href="https://github.com/RohanNair98/Amara">Amara</a></h3>
+      <p align="center">High-performance modular Python application focused on backend optimization, file parsing, and multithreaded processing.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Format-Jupyter-F37626?style=flat-square" />
-        <img src="https://img.shields.io/badge/Field-Data_Analytics-red?style=flat-square" />
+        <img src="https://img.shields.io/badge/Language-Python-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Type-Core_App-red?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -102,5 +103,5 @@ I am a passionate Software Engineer and Data Scientist specializing in **AI Syst
 </p>
 
 <p align="center">
-  <i>Keep coding, keep building, keep growing! 🚀</i>
+  <i>Driving artificial intelligence forward. 🚀</i>
 </p>
