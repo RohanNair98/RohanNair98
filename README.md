@@ -85,17 +85,6 @@ I am an **AI Engineer** and **Data Scientist** specializing in **Retrieval-Augme
 
 ---
 
-### 📊 GitHub Analytics & Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohanNair98&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E&icon_color=00F2FE" alt="Rohan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNair98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanNair98&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=00F2FE&sideLabels=00F2FE" alt="GitHub Streak Stats" />
-</p>
-
 <p align="center">
   <i>Driving artificial intelligence forward. 🚀</i>
 </p>
