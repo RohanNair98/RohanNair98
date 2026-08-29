@@ -63,8 +63,8 @@ I design scalable neural architectures and take them all the way to production �
 
 <div align="center">
 
-<a href="https://github.com/RohanNair98/RAG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanNair98&repo=RAG&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E&icon_color=00F2FE" width="49%" />
+<a href="https://github.com/RohanNair98/lifeos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanNair98&repo=lifeos&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E&icon_color=00F2FE" width="49%" />
 </a>
 <a href="https://github.com/RohanNair98/Mediapipe-Pose-Tutorial">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanNair98&repo=Mediapipe-Pose-Tutorial&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E&icon_color=00F2FE" width="49%" />
@@ -82,34 +82,12 @@ I design scalable neural architectures and take them all the way to production �
 <summary><b>💬 What each one actually does</b></summary>
 <br/>
 
-- **🤖 RAG** — Retrieval-Augmented Generation over vector databases with semantic search and LLM-grounded answering. Chunking strategy, embedding choice and re-ranking are all swappable.
+- **🧭 LifeOS** — A life operating system where goals, habits and tasks share one data model. Goals carry no progress field; progress is derived on every read from the tasks and habits pointed at them. FastAPI backend, Next.js frontend, Groq/OpenAI fallback chain, MongoDB or zero-config JSON.
 - **👤 Mediapipe-Pose-Tutorial** — Real-time body gesture and pose estimation with Google Mediapipe + OpenCV, tracking joints and spatial orientation frame by frame.
 - **🎭 Emotion-Detection** — CNNs trained to classify facial expressions in live video, from face detection through to per-frame emotion labels.
 - **💬 Amara** — A sentiment-aware chatbot assistant that evaluates and classifies user text in real time using NLP.
 
 </details>
-
----
-
-## 📊 Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RohanNair98&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E&icon_color=00F2FE" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanNair98&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=00F2FE&currStreakNum=8B949E&sideNums=8B949E&currStreakLabel=00F2FE&sideLabels=00F2FE" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanNair98&bg_color=0D1117&color=00F2FE&line=4FACFE&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
-<details>
-<summary><b>🏆 Trophy cabinet & language split</b></summary>
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RohanNair98&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanNair98&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=8B949E&langs_count=8" width="60%" />
-
-</details>
-
-</div>
 
 ---
 
